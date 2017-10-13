@@ -15,7 +15,7 @@
     			<h1>About Your Appointment: </h1>	
     	</header>
     	<br>
-        <h2>Below is the following info provided: </h2>
+        <h2>Below was the following info provided: </h2>
         <br>
     
     

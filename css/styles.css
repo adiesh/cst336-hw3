@@ -1,0 +1,34 @@
+ body {
+     background-color: green;
+     color: gold;
+     font-size: 1em;
+     line-height: 1.5em;
+     font-size: 1.2em;
+ }
+ 
+ 
+header {
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+}
+
+
+ 
+ #footer {
+    float: left;
+    width: 100%;
+    text-align: center;
+    font-style: italic;
+}
+
+#Health_Logo {
+    margin: auto;
+    width: 450px;
+    
+}
+
+.mustComplete {
+    font-style: italic;
+    font-size: 1.5em;
+}
+
